@@ -14,6 +14,15 @@ Todavía existen muchos casos donde los diagnosticos de los médicos son incorre
 La pregunta para el proyecto fue: ¿Puede un clasificador predecir si una persona tiene una enfermedad cardiovascular?. Después de formular esa pregunta se siguieron los pasos para poder constestarla.
 
 
+1.- Definir problema (la pregunta que hicimos)
+2.- Conseguir datos (estos datos provienen de la clinica de Cleeveland)
+3.- EDA de los datos (analisis exploratorio para entender las variables y sus relaciones entre si)
+4.- Modelos de clasificación (Para este proyecto usamos el modelo de Regresión Logística, el KNeighbors y el random forest)
+5.- Resultados (los resultados fueron medidos a través de las métricas de evalucación)
+6.- Experimentación (Se pueden hacer diferentes experimentos como tunear los hiperparametros o el cross validation para ver si mejoran las métricas)
+7.- Conclusiones ( hay muchas preguntas que nos podemos hacer para las conclusiones. ¿Que nos dicen las métricas?, ¿el modelo es lo suficientemente bueno para tema de salúd?, ¿como están los errores  del tipo 1 y del tipo 2?)
+
+
 ![descarga](https://user-images.githubusercontent.com/110119199/194411676-6dcf8ab8-ffb7-4eaa-a702-e862fd783dd1.png)
 
 
