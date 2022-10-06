@@ -57,6 +57,3 @@ https://archive.ics.uci.edu/ml/datasets/heart+Disease
 También se puede encontrar una carpeta llamada 'código' que es donde viene el jupiter notebook con el código del proyecto. 
 
 
-Dejo el link aquí a la presentación del proyecto.
-
-https://www.beautiful.ai/-NDgxY7EKXWbSbpZbqUa/3
