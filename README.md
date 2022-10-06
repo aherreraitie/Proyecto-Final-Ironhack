@@ -3,6 +3,10 @@
 
 Para el proyecto final, la idea fue hacer un clasificador que a través de ciertas variables, nos dice si una persona tiene o no una enfermedad cardiovascular. 
 
+![robina-weermeijer-NIuGLCC7q54-unsplash](https://user-images.githubusercontent.com/110119199/194412729-1389cc10-0e7f-4c0e-9967-cd7ff87ff671.jpg)
+
+
+
 La causa de muerte más común en el mundo es por algún tipo de enfermendad cardiovascular. Tan solo en el 2019, 18millones de personas fallecieron por algún problema relacionado al corazón. 
 
 Todavía existen muchos casos donde los diagnosticos de los médicos son incorrectos. En Estados Unidos 12millones de personas reciben un diagnóstico equivocado por parte del médico. 
