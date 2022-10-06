@@ -3,7 +3,6 @@
 
 Para el proyecto final, la idea fue hacer un clasificador que a través de ciertas variables, nos dice si una persona tiene o no una enfermedad cardiovascular. 
 
-![robina-weermeijer-NIuGLCC7q54-unsplash](https://user-images.githubusercontent.com/110119199/194412729-1389cc10-0e7f-4c0e-9967-cd7ff87ff671.jpg)
 
 
 
